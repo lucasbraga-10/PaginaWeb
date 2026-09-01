@@ -1,0 +1,55 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background-color: #004D98;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #A50044;
+}
+
+header h1 {
+    color: #EDBB00;
+}
+
+.FCB {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.FCB h1 {
+    color: #004D98;
+}
+
+.FCB h3 {
+    color: #A50044;
+}
+
+.FCB p {
+    line-height: 1.5;
+}
+
+.FCB img {
+    width: 70%;
+}
+
+.FCB video {
+    width: 300px;
+}
+
+button {
+    background-color: #004D98;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #A50044;
+}
